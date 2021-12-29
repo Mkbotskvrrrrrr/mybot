@@ -1,6 +1,6 @@
 # Adv Auto Filter 
 
-[![name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=Link)
+[![name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/Mkbotskvrrrrrr/mybot)
 
 <p align="center">
   <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot/stargazers">
